@@ -15,7 +15,9 @@
 <a href="https://github.com/john-s21/Django-Web-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&repo=Django-Web-App&show_owner&theme=merko" />
 </a>
-
+<a href="https://github.com/john-s21/aws-ethereum-miner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&show_owner=john-s21&repo=aws-ethereum-miner&theme=merko" />
+</a>
 <a href="https://github.com/john-s21/devops18082021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&repo=devops18082021&show_owner&theme=merko" />
 </a>
