@@ -19,7 +19,6 @@
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/git.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/docker.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/tomcat.png" /></a>
-	<a><img align="center" src="https://img.icons8.com/color/48/000000/docker.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/pycharm.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/jenkins.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/terraform.png" /></a>
