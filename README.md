@@ -6,8 +6,17 @@
 
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=john-s21&show_icons=true&count_private=true alt=john/>
+	<img src=https://github-readme-stats.vercel.app/api?username=john-s21&show_icons=true&locale=en&custom_title=GitHub+Status=(JOHN)&theme=gruvbox_light&include_all_commits=true&count_private=true bg_color=DEG,FFFFFF,979A9C,2AA9F1&text_color=000000&title_color=3D02CE&border_color=006BFB alt=john/>
 </p>
+
+<a href="https://github.com/john-s21/my-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&repo=my-app" />
+</a>
+<a href="https://github.com/john-s21/Django-Web-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&repo=Django-Web-App" />
+</a>
+
+
 
 
 <!---
