@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> JohnPaul A </h1></p>
+<p align="center"> <h1 align="center"> A.JohnPaul</h1></p>
 <p align="center">
 	<a href="https://github.com/john-s21" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/icons/github.svg" alt="JohnPaul A" height="20" width="20" /></a>
 	<a href="https://discordapp.com/users/534727594764140560" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/icons/discord.svg" alt="JohnPaul Ar" height="20" width="20" /></a>
