@@ -26,6 +26,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&repo=Django-Web-App&show_owner&theme=merko" />
 </a>
 
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&show_owner=john-s21&repo=john-s21&theme=merko" />
+</p>
+
 
 
 <!---
