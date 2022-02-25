@@ -5,15 +5,15 @@
 	<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=bijudonbosco1995@gmail.com" target="_blank" bis_skin_checked="1"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/icons/google.svg" alt="JohnPaul A" height="20" width="20" /></a>
 </p>
 
-- 👋 Hi, I’m JohnPaul
-- 
-- 👀 Interested in technology & Science
-- 
-- 🌱 Currently grinding AWS/DevOps/GIT and much more ...
-- 
-- 💞️ looking to collaborate on ...
-- 
-- 📫 How to reach me? bijudonbosco1995@gmail.com
+👋 Hi, I’m JohnPaul
+
+👀 Interested in technology & Science
+
+🌱 Currently grinding AWS/DevOps/GIT and much more ...
+
+💞️ looking to collaborate on ...
+
+📫 How to reach me? bijudonbosco1995@gmail.com
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=john-s21&show_icons=true&locale=en&custom_title=GitHub+Status=(JOHN)&theme=highcontrast&include_all_commits=true&count_private=true bg_color=DEG,FFFFFF,979A9C,2AA9F1&text_color=000000&title_color=3D02CE&border_color=006BFB alt=john/>
