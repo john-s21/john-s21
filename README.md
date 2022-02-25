@@ -10,10 +10,10 @@
 </p>
 
 <a href="https://github.com/john-s21/my-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&repo=my-app" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&show_owner=john-s21&repo=my-app&theme=gruvbox_light" />
 </a>
 <a href="https://github.com/john-s21/Django-Web-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&repo=Django-Web-App" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-s21&repo=Django-Web-App&show_owner&theme=gruvbox_light" />
 </a>
 
 
