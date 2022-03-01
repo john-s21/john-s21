@@ -39,7 +39,7 @@
 <p align="center"><img src=https://komarev.com/ghpvc/?username=john-s21&color=yellowgreen&style=plastic&label=PROFILE+VIEWS alt=john /></p>
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=john-s21&layout=compact&theme=vision-friendly-dark&border_color=006BFB alt=jp/>
+	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=john-s21&langs_count=8&layout=compact&theme=vision-friendly-dark&border_color=006BFB alt=jp/>
 </p>
 
 <a href="https://github.com/john-s21/my-app">
