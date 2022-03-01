@@ -36,6 +36,8 @@
 	<img src=https://github-readme-stats.vercel.app/api?username=john-s21&show_icons=true&locale=en&custom_title=GitHub+Status=(JOHN)&theme=highcontrast&include_all_commits=true&count_private=true&border_color=006BFB bg_color=DEG,FFFFFF,979A9C,2AA9F1&text_color=000000&title_color=3D02CE& alt=john/>
 </p>
 
+<p align="center"><img src=https://komarev.com/ghpvc/?username=john-s21&color=yellowgreen&style=plastic&label=PROFILE+VIEWS alt=john /></p>
+
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=john-s21&layout=compact&theme=vision-friendly-dark&border_color=006BFB alt=jp/>
 </p>
