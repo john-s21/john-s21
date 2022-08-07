@@ -1,4 +1,4 @@
-<body background="https://d117h1jjiq768j.cloudfront.net/images/default-source/blogs/2018/2018-12/developers-vs-low-code-what-they-think-and-why_870x433.jpg?sfvrsn=49bddde3_1">
+<body background="https://d117h1jjiq768j.cloudfront.net/images/default-source/blogs/2018/2018-12/developers-vs-low-code-what-they-think-and-why_870x433.jpg?sfvrsn=49bddde3_1"> </body>
 <p align="center"> <h1 align="center"> A.JohnPaul</h1></p>
 <p align="center">
 	<a href="https://github.com/john-s21" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/icons/github.svg" alt="JohnPaul A" height="20" width="20" /></a>
