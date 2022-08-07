@@ -23,7 +23,7 @@
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/pycharm.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/jenkins.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/terraform.png" /></a>
-	<a><img align="center" height="45" width="75" src="https://www.pinclipart.com/picdir/big/129-1298432_splunk-icon-free-png-and-svg-download-carnival.png" /></a>
+	<a><img align="center" height="45" width="75" src="https://seeklogo.com/images/S/splunk-logo-85E8EAB14B-seeklogo.com.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/prometheus-app.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /></a>
