@@ -20,17 +20,18 @@
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/git.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/docker.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/tomcat.png" /></a>
-	<a><img align="center" src="https://img.icons8.com/color/48/000000/pycharm.png" /></a>
+	<a><img align="center" src="https://icons8.com/icon/13441/python"></a>
+<!-- 	<a><img align="center" src="https://img.icons8.com/color/48/000000/pycharm.png" /></a> -->
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/jenkins.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/terraform.png" /></a>
-	<a><img align="center" height="45" width="75" src="https://seeklogo.com/images/S/splunk-logo-85E8EAB14B-seeklogo.com.png" /></a>
+<!-- 	<a><img align="center" height="45" width="75" src="https://seeklogo.com/images/S/splunk-logo-85E8EAB14B-seeklogo.com.png" /></a> -->
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/prometheus-app.png" /></a>
 	<a><img align="center" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /></a>
-	<a><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /></a>
-	<a><img align="center" height="70" width="65" src="https://img.icons8.com/color/48/000000/django.png" /></a>
-	<a><img align="center" height="40" width="65" src="https://seeklogo.com/images/M/maven-logo-5A9B272A6E-seeklogo.com.png" /></a>
-	<a><img align="center" height="130" width="90" src="https://www.sonarqube.org/assets/logo-31ad3115b1b4b120f3d1efd63e6b13ac9f1f89437f0cf6881cc4d8b5603a52b4.svg" /></a>
-	<a><img align="center" height="47" width="47" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/NexusRepo_Icon.png?itok=ERx7P7n2" ></a>
+<!-- 	<a><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /></a> -->
+<!-- 	<a><img align="center" height="70" width="65" src="https://img.icons8.com/color/48/000000/django.png" /></a> -->
+<!-- 	<a><img align="center" height="40" width="65" src="https://seeklogo.com/images/M/maven-logo-5A9B272A6E-seeklogo.com.png" /></a> -->
+<!-- 	<a><img align="center" height="130" width="90" src="https://www.sonarqube.org/assets/logo-31ad3115b1b4b120f3d1efd63e6b13ac9f1f89437f0cf6881cc4d8b5603a52b4.svg" /></a> -->
+<!-- 	<a><img align="center" height="47" width="47" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/NexusRepo_Icon.png?itok=ERx7P7n2" ></a> -->
 </p>
 
 <p align="center">
